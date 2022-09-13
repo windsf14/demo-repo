@@ -1,4 +1,4 @@
 #demmo
 
 
-soal
+soal yes
